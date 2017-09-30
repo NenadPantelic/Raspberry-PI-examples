@@ -52,8 +52,7 @@ $ <span class="pl-c1">cd</span> /path/to/your/directory - e.g cd Downloads/Raspb
 <span class="pl-c"><span class="pl-c">#</span> Run your scripts in super user mode</span>
 $ sudo python <name_of_the_script.py> e.g sudo python LED.py
 
-<span class="pl-c"><span class="pl-c">#</span> Run the app</span>
-$ npm start</pre></div>
+
 <p>Note: If you have some problems, you can contact me on my Linkedin profile or send me an e-mail. </p>
 
 
