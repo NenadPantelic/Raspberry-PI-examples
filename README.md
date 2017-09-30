@@ -55,17 +55,16 @@ $ sudo python <name_of_the_script.py> e.g sudo python LED.py
 
 <p>Note: If you have some problems, you can contact me on my Linkedin profile or send me an e-mail. </p>
 
-
 <hr>
-<blockquote>
 
+
+
+
+<blockquote>
+<p>
 GitHub <a href="https://github.com/NenadPantelic">NenadPantelic</a> &nbsp;·&nbsp;
 Linkedin <a href="https://www.linkedin.com/in/nenad-panteli%C4%87-479a98127/">Nenad Pantelic</a></p>
 </blockquote>
-</article>
-
-
-
 
 
 <!-- This article design and HTML code produced by that was made by amitmerchant1990 ( repo about Electron Modify), and all credits for desgin goes to him. I used his code structure and customized it  and changed some themathic elements for my own purpose.  -->
